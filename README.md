@@ -14,10 +14,10 @@ The project involves:
 2. Designing an AdaBoost algorithm that uses these classifiers as base learners.
 3. Evaluating the model's performance on a training and testing dataset.
 4. Determining: 
-        1.  The number of learners needed for attaining 100% training accuracy. 
-        2.  The maximum achievable testing accuracy. 
-        3.  Whether 100% testing accuracy is achievable or not. 
-        4.  The number of learners that yield the best testing accuracy. 
+   1.  The number of learners needed for attaining 100% training accuracy. 
+   2.  The maximum achievable testing accuracy. 
+   3.  Whether 100% testing accuracy is achievable or not. 
+   4.  The number of learners that yield the best testing accuracy. 
 
 Datasets: 
 1. Training Dataset  : adaboost-train-24.txt
